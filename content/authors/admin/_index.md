@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Supervisor R&D Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: COMAC Beijing Aircraft Technology Research Institute
+    url: http://bj.comac.cc/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, reinforcement learning, deep learning, path planning, motion planning, trajectory optimization, and controller design.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Autonomous Driving
+  - Reinforcement Learning
+  - Deep Learning
+  - Planning and Control
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Mechanical and Aerospace Engineering
+      institution: Rutgers, The State University of New Jersey
+      year: 2019
+    - course: MEng in Electronic Communication Engineering
+      institution: University of Chinese Academy of Sciences
+      year: 2015
+    - course: BSc in Electronic Engineering
+      institution: Beihang University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -120,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liyang Wang is a senior supervisor R&D engineer at COMAC Beijing Aircraft Technology Research Institute AI lab. His research interests include robotics, reinforcement learning, deep learning, path planning, motion planning, trajectory optimization, and controller design. He leads the Flight Management System(FMS) group, which develops navigation and guidance module. His current main research project is flight Four-Dimensional trajectory planning under multiple constraints and optimization objectives.
 {style="text-align: justify;"}
