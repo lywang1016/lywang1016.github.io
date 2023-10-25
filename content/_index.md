@@ -72,30 +72,36 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+              * Supervising team members for Navigation and Guidance module development within FMS (flight management system)
+              * Conducting research for 4D trajectory planning under multiple constraints and optimization objectives
+              * Conducting research for wheeled robot autonomous driving to support aircraft taxiing 
+              * Tracking SOTA AI algorithms and architectures
+
+        - title: Senior Software Engineer
+          company: Baidu USA
+          company_url: 'http://usa.baidu.com/'
+          # company_logo: org-gc
+          location: Sunnyvale, CA, USA
+          date_start: '2019-12-09'
+          date_end: '2022-06-17'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Developing excavator autonomous driving
+              * Conducting research for motion planning and trajectory optimization
+              * Modelling and control of hydraulic system
+              * Developing robot hardware platform
+              * Delivering excavator autonomous solutions to customers
+               
+        - title: Ph.D Candidate
+          company: Rutgers University, Mechanical and Aerospace Engineering
+          company_url: 'https://mae.rutgers.edu/'
+          # company_logo: org-x
+          location: Piscataway, NJ, USA
+          date_start: '2015-09-01'
+          date_end: '2019-10-01'
+          description: Perform practical and theoretical research in state estimation, sensor fusion, path planning, image processing, machine learning, and control with robotic applications.
+
     design:
       columns: '2'
   - block: accomplishments
