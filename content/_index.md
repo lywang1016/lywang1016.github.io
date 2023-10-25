@@ -62,6 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Supervisor R&D Engineer
+          company: COMAC Beijing Aircraft Technology Research Institute
+          company_url: 'http://bj.comac.cc/'
+          # company_logo: org-gc
+          location: Beijing, China
+          date_start: '2022-08-15'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: CEO
           company: GenCoin
           company_url: ''
