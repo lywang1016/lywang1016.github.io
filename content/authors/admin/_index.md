@@ -96,17 +96,17 @@ skills:
         description: ''
         percent: 90
         icon: paw
-        icon_pack: fab
+        icon_pack: fas
       - name: Fishing
         description: ''
         percent: 90
         icon: fish
-        icon_pack: fab
+        icon_pack: fas
       - name: Cooking
         description: ''
         percent: 70
         icon: utensils
-        icon_pack: fab
+        icon_pack: fas
 
 # Social/Academic Networking 
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
