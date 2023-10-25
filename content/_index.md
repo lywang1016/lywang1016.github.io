@@ -267,7 +267,7 @@ sections:
       address:
         street: 2 Tianquan Road, Apt 202, Unit 2, Building 3 
         city: Beijing
-        region: Changping
+        region: China
         postcode: '102209'
         country: China
         country_code: CN
