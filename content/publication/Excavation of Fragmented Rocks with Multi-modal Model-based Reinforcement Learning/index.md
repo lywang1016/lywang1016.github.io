@@ -3,7 +3,7 @@ title: "Excavation of fragmented rocks with multi-modal model-based reinforcemen
 authors:
 - Yifan Zhu
 - admin
-- Liyangjun Zhang
+- Liangjun Zhang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
