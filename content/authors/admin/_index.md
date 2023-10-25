@@ -85,7 +85,7 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: piano
+        icon: music
         icon_pack: fas
       - name: Swimming
         description: ''
@@ -95,17 +95,17 @@ skills:
       - name: Rabbits
         description: ''
         percent: 90
-        icon: rabbit
+        icon: paw
         icon_pack: fab
       - name: Fishing
         description: ''
         percent: 90
-        icon: fishing-rod
+        icon: fish
         icon_pack: fab
       - name: Cooking
         description: ''
         percent: 70
-        icon: cauldron
+        icon: utensils
         icon_pack: fab
 
 # Social/Academic Networking 
