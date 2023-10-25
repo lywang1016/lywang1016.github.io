@@ -57,7 +57,7 @@ skills:
       description: ''
       percent: 100
       icon: robot
-      icon_pack: fab
+      icon_pack: fas
     - name: Python
       description: ''
       percent: 90
@@ -67,7 +67,7 @@ skills:
       description: ''
       percent: 80
       icon: toolbox
-      icon_pack: fab
+      icon_pack: fas
     - name: C++/C
       description: ''
       percent: 80
@@ -77,7 +77,7 @@ skills:
       description: ''
       percent: 60
       icon: desktop
-      icon_pack: fab
+      icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -86,7 +86,7 @@ skills:
         description: ''
         percent: 100
         icon: piano
-        icon_pack: fab
+        icon_pack: fas
       - name: Swimming
         description: ''
         percent: 80
@@ -96,17 +96,17 @@ skills:
         description: ''
         percent: 90
         icon: rabbit
-        icon_pack: fas
+        icon_pack: fab
       - name: Fishing
         description: ''
         percent: 90
         icon: fishing-rod
-        icon_pack: fas 
+        icon_pack: fab
       - name: Cooking
         description: ''
         percent: 70
         icon: cauldron
-        icon_pack: fas 
+        icon_pack: fab
 
 # Social/Academic Networking 
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
