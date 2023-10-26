@@ -1,18 +1,18 @@
 ---
-title: "Application of Fourth-order Runge-Kutta algorithm in SINS"
+title: "New method of GPS/DR data fusion for land vehicle"
 authors:
 - admin
-- Kunpeng Zhai
 - Wentao He
-- Jianhua Xu
+- Chengyan Ma
+- Xiaoli Bai
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2014-11-04T00:00:00Z"
+date: "2015-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-11-04T00:00:00Z"
+publishDate: "2015-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,10 +23,10 @@ publication_types: ["article-journal"]
 publication: "Computer Simulation"
 publication_short: ""
 
-abstract: In order to optimize accuracy and complexity of SINS algorithm, this work applied Fourth-order  Runge-Kutta  algorithm  on attitude  and  velocity  calculation.  It  is  shown  that  this method leads to  a better  performance.  First  of  all, high  accuracy  digital integration  algorithm for calculating  attitude, velocity  and  position  was  carried  out  according to the  previous findings  was introduced.  After  that,  new  algorithms  of  attitude  and  velocity  calculation  using  the  theory  of  Runge-Kutta  algorithm  were  deduced  in  detail.  By  adopting  the  data  of  trajectory  generator,  the error  feature  curves  of  navigation  results  from  the  two  algorithms  (that  is  the  previous  digital integration  algorithm  and  the  new  algorithm  based  on  Runge -Kutta  algorithm)  were  obtained, respectively. Comparison with the two algorithms clearly shows that the performance of Fourth-order Runge-Kutta algorithm  is better  than  that of high accuracy digital  integration algorithm.
+abstract: According  to  the  characteristics  of  land  vehicle  navigation,  a  new  DR  navigation algorithm was proposed based on speed pulse. The new DR navigation algorithm does not limited to the local east-north flat plane, and can provide real-time latitude and longitude according to the earth  model, based on velocity  vector  calculated  under the east-north-up  coordinate.  Then a  new data  fusion  method  for  GPS/DR  integrated  navigation  system  was  developed  in detail.  This method  has  good  robustness  and  is  easier  to  apply  to  industry.  Simulation  and  field  running experiments show that this method can satisfy the basic requirement of land vehicle navigation. It improves the degree of precision and is able to work even when GPS signals are masked. 
 
 # Summary. An optional shortened abstract.
-summary: This research introduces a fourth-order Runge-Kutta algorithm to enhance the accuracy and performance of Strapdown Inertial Navigation System (SINS) calculations compared to traditional high-accuracy digital integration methods.
+summary: A new Dead Reckoning (DR) navigation algorithm based on speed pulse for land vehicles provides real-time latitude and longitude calculations, while a robust GPS/DR integrated navigation data fusion method improves precision and works effectively even in GPS signal-interfered environments.
 
 tags:
 - Source Themes
