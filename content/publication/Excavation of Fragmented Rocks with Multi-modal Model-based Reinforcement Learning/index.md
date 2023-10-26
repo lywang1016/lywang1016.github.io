@@ -22,10 +22,10 @@ publication_types: ["paper-conference"]
 publication: "THE 2022 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS"
 publication_short: "IROS 2022"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a multi-modal model-based reinforcement learning (MBRL) approach to the excavation of fragmented rocks which are very challenging to model due to their highly variable sizes and geometries, and visual occlusions. A multi-modal recurrent neural network (RNN) learns the dynamics of bucket-terrain interaction from a small physical dataset, with a discrete set of motion primitives encoded with domain knowledge as the action space. Then a model predictive controller (MPC) tracks a global reference path using multi-modal feedback. We show that our RNN-based dynamics function achieves lower prediction errors compared to a feed-forward neural network baseline, and the MPC is able to significantly outperform manually designed strategies on such a challenging task.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper presents a multi-modal model-based reinforcement learning approach for excavating challenging fragmented rocks. It leverages a multi-modal recurrent neural network (RNN) and a model predictive controller (MPC) to outperform conventional strategies, demonstrating superior predictive accuracy and effectiveness in a challenging task.
 
 tags:
 - Source Themes
