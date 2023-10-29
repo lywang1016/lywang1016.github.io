@@ -142,5 +142,5 @@ social:
 highlight_name: true
 ---
 
-Liyang Wang is a senior supervisor R&D engineer at COMAC Beijing Aircraft Technology Research Institute AI lab. His research interests include robotics, reinforcement learning, deep learning, path planning, motion planning, trajectory optimization, and controller design. He leads the Flight Management System(FMS) group, which develops navigation and guidance module. His current main research project is flight Four-Dimensional trajectory planning under multiple constraints and optimization objectives.
+Liyang Wang is a senior supervisor R&D engineer at COMAC Beijing Aircraft Technology Research Institute AI lab. His research interests include robotics, reinforcement learning, deep learning, path planning, motion planning, trajectory optimization, and controller design. His current main research project is flight Four-Dimensional trajectory planning under multiple constraints and optimization objectives. At the same time, he leads the Flight Management System (FMS) group, which develops navigation and guidance module. 
 {style="text-align: justify;"}
