@@ -193,6 +193,14 @@ sections:
           tag: Reinforcement Learning
         - name: Planning and Control
           tag: Planning and Control
+        - name: Wheeled robot
+          tag: Wheeled robot
+        - name: Trajectory Optimization
+          tag: Trajectory Optimization  
+        - name: Robot Platform
+          tag: Robot Platform
+        - name: Simulation Environment
+          tag: Simulation Environment  
         - name: Just for Fun
           tag: Just for Fun
     design:
