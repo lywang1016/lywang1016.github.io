@@ -39,9 +39,9 @@ url_pdf: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: 'https://docs.google.com/presentation/d/17MiRPsFw8iized7m4K3Ad8J7KvCzSgLO/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true'
+url_slides: 'https://drive.google.com/file/d/1lgOyLgOpSnri6X5N1da0-84UZ9jql4zk/view?usp=sharing'
 # url_source: ''
-# url_video: ''
+url_video: 'https://youtu.be/0PPYu3bOVT0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
