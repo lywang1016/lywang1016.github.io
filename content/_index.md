@@ -212,7 +212,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Selected Publications
       filters:
         folders:
           - publication

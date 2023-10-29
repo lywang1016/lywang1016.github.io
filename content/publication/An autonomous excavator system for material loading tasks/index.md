@@ -34,7 +34,7 @@ summary: This paper introduces an Autonomous Excavator System (AES) designed for
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

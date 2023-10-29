@@ -28,7 +28,7 @@ summary: This paper presents a monocular vision-based solution for autonomous qu
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 # links:
 # - name: ""
