@@ -191,10 +191,8 @@ sections:
           tag: '*'
         - name: Reinforcement Learning
           tag: Reinforcement Learning
-        - name: Planning and Control
-          tag: Planning and Control
-        - name: Wheeled robot
-          tag: Wheeled robot
+        - name: Wheeled Robot
+          tag: Wheeled Robot
         - name: Trajectory Optimization
           tag: Trajectory Optimization  
         - name: Robot Platform
