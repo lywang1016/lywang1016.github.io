@@ -1,6 +1,6 @@
 ---
 title: Poker (Texas hold'em)
-summary: A personal project about playing poker against computer.
+summary: A personal project about developing AI player and playing poker against human player.
 tags:
   - Just for Fun
 date: '2021-11-05T00:00:00Z'
