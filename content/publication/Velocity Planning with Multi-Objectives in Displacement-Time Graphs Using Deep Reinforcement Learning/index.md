@@ -28,7 +28,7 @@ summary: This paper presents a robust velocity planning method for robotics and 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
