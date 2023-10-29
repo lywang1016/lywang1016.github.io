@@ -46,7 +46,7 @@ url_pdf: ''
 # url_project: ''
 # url_slides: 'https://docs.google.com/presentation/d/17MiRPsFw8iized7m4K3Ad8J7KvCzSgLO/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true'
 # url_source: ''
-# url_video: ''
+url_video: 'https://www.youtube.com/watch?v=KFcNf_k0E_M'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
