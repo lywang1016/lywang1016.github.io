@@ -29,7 +29,7 @@ summary: This paper presents a multi-modal model-based reinforcement learning ap
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
