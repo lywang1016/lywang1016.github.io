@@ -40,3 +40,5 @@ Due to the limited number of states in the Tic Tac Toe game, Tabular Reinforceme
 Through experiments, regardless of the algorithm used (SARSA, Q-learning, and double Q-learning), the agents have been trained to the point where they can never lose. The best result for human player is tie, and if human make any mistake the AI will win.
 
 You are very welcomed to click the [Code](https://github.com/lywang1016/RL-for-TicTacToe) link to github, and deploy on your own computer to play. Also please checkout the [Video](https://youtu.be/KqAJFFEyUSM) for your reference.
+
+I'm also conducting research on implementing a chess AI using Alpha Zero's techniques, which involve Deep Reinforcement Learning and Monte Carlo Tree Search. Chess has significantly more states compared to Tic Tac Toe, and it has been proven that Tabular Reinforcement Learning is not applicable in this case.
