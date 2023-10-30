@@ -28,7 +28,7 @@ abstract: Autonomous excavator develops rapidly in recent years as a result of t
 summary: This paper presents a hierarchical planning system for autonomous excavators, enhancing task and motion planning, and demonstrating its effectiveness in real-world and simulated excavation tasks.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

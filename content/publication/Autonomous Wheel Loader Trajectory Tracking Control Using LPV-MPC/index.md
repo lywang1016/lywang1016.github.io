@@ -30,7 +30,7 @@ abstract: In this paper, we present a systematic approach for high-performance a
 summary: This paper outlines an approach for efficient trajectory tracking control of autonomous wheel loaders, employing nonlinear model predictive control for trajectory planning and a Linear Parameter Varying (LPV) model for enhanced computational efficiency, leading to better performance and reduced computational burden compared to conventional methods.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

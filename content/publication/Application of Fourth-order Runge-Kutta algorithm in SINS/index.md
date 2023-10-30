@@ -29,7 +29,7 @@ abstract: In order to optimize accuracy and complexity of SINS algorithm, this w
 summary: This research introduces a fourth-order Runge-Kutta algorithm to enhance the accuracy and performance of Strapdown Inertial Navigation System (SINS) calculations compared to traditional high-accuracy digital integration methods.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

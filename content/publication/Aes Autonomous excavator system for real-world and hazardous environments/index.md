@@ -33,7 +33,7 @@ abstract: Excavators are widely used for material-handling applications in unstr
 summary: This paper emphasizes the potential of autonomous excavators to enhance safety and productivity by replacing human operators in hazardous conditions within a multi-billion-dollar global market.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

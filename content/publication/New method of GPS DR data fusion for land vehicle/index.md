@@ -29,7 +29,7 @@ abstract: According  to  the  characteristics  of  land  vehicle  navigation,  a
 summary: A new Dead Reckoning (DR) navigation algorithm based on speed pulse for land vehicles provides real-time latitude and longitude calculations, while a robust GPS/DR integrated navigation data fusion method improves precision and works effectively even in GPS signal-interfered environments.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

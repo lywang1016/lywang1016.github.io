@@ -27,7 +27,7 @@ abstract: Autonomous landing of a quadrotor UAV on a vessel deck is challenging 
 summary: This paper presents a monocular vision-based solution for autonomous quadrotor UAV landing on a vessel deck under challenging sea conditions, using on-board sensors only. Experimental results with a Parrot AR.Drone platform confirm the solution's accuracy and robustness.
 
 tags:
-- Source Themes
+- All Publications
 featured: True
 
 # links:

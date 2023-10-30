@@ -28,7 +28,7 @@ abstract: Guide dogs can vastly improve vision-impaired people's daily-life qual
 summary: This paper introduces a robot guide dog system designed to assist vision-impaired individuals in navigating environments. Using a novel human-robot kinematic model and a Model Predictive Control (MPC) algorithm, this wheeled ground robot can successfully guide users through narrow corridors, avoiding obstacles and enhancing their mobility.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

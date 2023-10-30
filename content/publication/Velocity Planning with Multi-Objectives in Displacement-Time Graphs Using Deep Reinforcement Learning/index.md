@@ -27,7 +27,7 @@ abstract: This paper presents a novel velocity planning method in displacement-t
 summary: This paper presents a robust velocity planning method for robotics and autonomous vehicles using deep reinforcement learning, offering scene-independent, efficient, and comfortable performance.
 
 tags:
-- Source Themes
+- All Publications
 featured: true
 
 # links:

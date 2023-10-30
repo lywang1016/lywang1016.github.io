@@ -33,7 +33,7 @@ abstract: Excavators are widely used for material handling applications in unstr
 summary: This paper introduces an Autonomous Excavator System (AES) designed for material loading tasks in challenging environments. Combining advanced perception and planning algorithms, AES demonstrates autonomous operation with efficiency comparable to human operators and robust performance in complex scenarios, achieving 24-hour continuous operation without human intervention.
 
 tags:
-- Source Themes
+- All Publications
 featured: true
 
 # links:

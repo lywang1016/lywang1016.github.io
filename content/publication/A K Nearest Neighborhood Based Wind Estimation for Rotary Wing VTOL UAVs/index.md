@@ -28,7 +28,7 @@ abstract: Wind speed estimation for rotary-wing vertical take-off and landing (V
 summary: This paper presents a K Nearest Neighborhood learning-based method for wind speed estimation in vertical take-off and landing UAVs. It offers robust and accurate wind estimation without the need for detailed aerodynamic information, addressing challenges posed by rotor down-wash effects.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

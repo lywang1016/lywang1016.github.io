@@ -29,7 +29,7 @@ abstract: Automated excavation is promising to improve the safety and efficiency
 summary: This paper presents a two-stage approach that integrates data-driven imitation learning and model-based trajectory optimization to enhance automated excavation techniques for excavators, resulting in a significant increase in excavation efficiency.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

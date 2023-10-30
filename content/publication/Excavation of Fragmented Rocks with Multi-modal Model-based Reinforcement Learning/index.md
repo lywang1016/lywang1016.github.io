@@ -28,7 +28,7 @@ abstract: This paper presents a multi-modal model-based reinforcement learning (
 summary: This paper presents a multi-modal model-based reinforcement learning approach for excavating challenging fragmented rocks. It leverages a multi-modal recurrent neural network (RNN) and a model predictive controller (MPC) to outperform conventional strategies, demonstrating superior predictive accuracy and effectiveness in a challenging task.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:

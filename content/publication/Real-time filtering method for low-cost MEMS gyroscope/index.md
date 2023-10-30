@@ -29,7 +29,7 @@ abstract: In this work, we aimed to find a general method suitable for coping in
 summary: This work presents a method to mitigate stochastic errors in low-cost MEMS gyroscopes using Allan variance analysis, real-time averaging, least square extrapolation, and a Kalman filter. The method effectively reduces errors, compensates for constant drift, and minimizes measurement variance, making it suitable for various MEMS gyroscopes in static and dynamic scenarios.
 
 tags:
-- Source Themes
+- All Publications
 featured: false
 
 # links:
