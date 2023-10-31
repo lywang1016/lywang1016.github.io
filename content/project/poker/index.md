@@ -20,7 +20,7 @@ image:
 url_code: 'https://github.com/lywang1016/PokerAI'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/q-cA1NKf8ak'
 
 # # Slides (optional).
 # #   Associate this project with Markdown slides.
@@ -36,4 +36,4 @@ While the current computer strategy is purely rule-based, it is not entirely nai
 
 The game's graphical interface displays your hand cards and the community cards, but all interactions occur within the Terminal. When it's your turn to make a move, you'll have access to the entire history of the current game.
 
-You are very welcomed to click the [Code](https://github.com/lywang1016/PokerAI) link to github, and deploy on your own computer to play.
+You are very welcomed to click the [Code](https://github.com/lywang1016/PokerAI) link to github, and deploy on your own computer to play. Also please checkout the [Video](https://youtu.be/q-cA1NKf8ak) for your reference.
