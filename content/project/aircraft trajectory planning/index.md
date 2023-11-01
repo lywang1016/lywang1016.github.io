@@ -21,7 +21,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1L-S7cjwy69E-vG037AO63rI6FB3Vih9L/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true'
 url_video: ''
 
 # # Slides (optional).
@@ -38,4 +38,4 @@ Due to the high-dimensional space complexity, directly optimizing to satisfy all
 
 The research part of this project focuses on the third step, which is velocity profile planning. Currently, I have implemented a baseline using a Breadth-First Search (BFS) algorithm. Simultaneously, I am researching the implementation using Deep Reinforcement Learning (DRL) algorithms. Compared to the baseline, it has advantages in terms of comfort and computational efficiency. Please check out my [relevant publication](https://lywang1016.github.io/publication/velocity-planning-with-multi-objectives-in-displacement-time-graphs-using-deep-reinforcement-learning/) for more details. At this moment, there is still significant room for improvement in terms of on-line computational efficiency, and this research is ongoing.
 
-I conducted all aspects of this project independently, including conceptualizing and designing the experiments, developing the simulation environment and generating data, implementing the algorithms, and writing the research paper.
+I conducted all aspects of this project independently, including conceptualizing and designing the experiments, developing the [simulation environment](https://docs.google.com/presentation/d/1L-S7cjwy69E-vG037AO63rI6FB3Vih9L/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true) and generating data, implementing the algorithms, and writing the research paper.
