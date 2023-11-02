@@ -17,9 +17,9 @@ image:
   focal_point: Smart
 
 links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
+  - icon: link
+    icon_pack: fab
+    name: Link
     url: http://research.baidu.com/Blog/index-view?id=159
 url_code: ''
 url_pdf: ''
