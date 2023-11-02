@@ -10,17 +10,17 @@ tags:
 date: "2022-6-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://research.baidu.com/Blog/index-view?id=159
+external_link: ''
 
 image:
   caption: ''
   focal_point: Smart
 
-# links:
+links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
-#     url: https://twitter.com/georgecushen
+    url: http://research.baidu.com/Blog/index-view?id=159
 url_code: ''
 url_pdf: ''
 url_slides: 'https://docs.google.com/presentation/d/1L-S7cjwy69E-vG037AO63rI6FB3Vih9L/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true'
