@@ -38,7 +38,7 @@ url_pdf: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1p7-JSftxcxAh-LvrPs3zphhBTg_NYwYB/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true'
+url_slides: 'https://docs.google.com/presentation/d/1XLotASGKGGis8RgmUoE3qoCvZkDZGEe0/edit?usp=sharing&ouid=109493805994328969677&rtpof=true&sd=true'
 # url_source: ''
 url_video: 'https://youtu.be/j9hrEzaSi8A'
 
