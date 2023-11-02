@@ -1,6 +1,6 @@
 ---
 title: Wheeled Robot Movement Modeling and Control
-summary: This project focuses on the modeling and control of wheeled robots, including three sub-projects I have completed at different times: autonomous taxiing of aircraft on the runway, crawler chassis locomotion for excavators, and a robotic guide dog for vision impaired people.
+summary: This project focuses on the modeling and control of wheeled robots, including three sub-projects I have completed at different times. They are autonomous taxiing of aircraft on the runway, crawler chassis locomotion for excavators, and a robotic guide dog for vision impaired people.
 tags:
   - Wheeled Robot
   - Trajectory Optimization
@@ -33,5 +33,5 @@ url_video: ''
 # slides: example
 ---
 
-This project focuses on the modeling and control of wheeled robots, including three sub-projects I have completed at different times: autonomous taxiing of aircraft on the runway, crawler chassis locomotion for excavators, and a robotic guide dog for vision impaired people.
+This project focuses on the modeling and control of wheeled robots, including three sub-projects I have completed at different times. They are autonomous taxiing of aircraft on the runway, crawler chassis locomotion for excavators, and a robotic guide dog for vision impaired people.
 
