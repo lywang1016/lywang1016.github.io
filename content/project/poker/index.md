@@ -1,6 +1,6 @@
 ---
 title: Poker (Texas hold'em)
-summary: A personal project about developing AI player and playing poker against human player.
+summary: A personal project about developing AI player and playing poker against each other or human player.
 tags:
   - Just for Fun
 date: '2021-11-05T00:00:00Z'
@@ -30,7 +30,7 @@ url_video: 'https://youtu.be/q-cA1NKf8ak'
 # slides: example
 ---
 
-This project is a Texas Hold'em poker game developed based on personal interest. I built the game framework using Python and created computer players using rule-based methods. Currently, the game supports 1v1 play against computer opponents. The ultimate goal is to implement AI players using genuine artificial intelligence techniques, but this would require further study and learning to design and implement.
+This project is a Texas Hold'em poker game developed based on personal interest. I built the game framework using Python and created computer players using rule-based methods. This game supports up to 9 players. Currently, the most interesting part is the 1v1 game, which allows for comparing different AI strategies and enables human players to compete against AI. The ultimate goal is to implement AI players using genuine artificial intelligence techniques, but this would require further study and learning to design and implement.
 
 While the current computer strategy is purely rule-based, it is not entirely naive. Avoid attempting overly aggressive bluffing strategies, as it will likely result in significant losses. The game is fair. The computer don't know your hand cards.
 
