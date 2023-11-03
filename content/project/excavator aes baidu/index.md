@@ -1,6 +1,6 @@
 ---
 title: Excavator Autonomous Driving
-summary: This is a big project. My research and works on this has three directions, excavator arm motion planning, trajectory optimization, and control, crawler excavator base motion planning and control, and task-level planning involving decision-making.
+summary: This project involves a wide range of technologies. My research and works on this has three directions, excavator arm motion planning, trajectory optimization, and control, crawler excavator base motion planning and control, and task-level planning involving decision-making.
 tags:
   - Reinforcement Learning
   - Wheeled Robot
@@ -34,7 +34,7 @@ url_video: ''
 # slides: example
 ---
 
-This is a big project. My research and works on this has three directions, excavator arm motion planning, trajectory optimization, and control, crawler excavator base motion planning and control, and task-level planning involving decision-making. 
+This project involves a wide range of technologies. My research and works on this has three directions, excavator arm motion planning, trajectory optimization, and control, crawler excavator base motion planning and control, and task-level planning involving decision-making. 
 
 To better support this project, besides my research and implementation, I have also developed a soil kinematic simulation based on ROS, and built a excavator robot system by modifying a mini-excavator, add sensors and make computer directly gives control commands, instead of using a joystick.
 
