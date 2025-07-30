@@ -2,7 +2,7 @@
 title: "Velocity Planning with Multi-Objectives in Displacement-Time Graphs Using Deep Reinforcement Learning"
 authors:
 - admin
-- Rui Zeng
+- Murat BRONZ
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -18,8 +18,8 @@ publishDate: "2023-09-25T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2024 IEEE International Conference on Robotics and Automation (Under Review)"
-publication_short: "ICRA 2024"
+publication: "2024 International Conference on Unmanned Aircraft Syste"
+publication_short: "ICUAS 2024"
 
 abstract: This paper presents a novel velocity planning method in displacement-time graphs with multiple constraints and optimization goals using deep reinforcement learning. The method formulates the velocity planning problem as a reinforcement learning task with state representation including time, position, velocity, acceleration, and distances to each obstacle triangle representative. The action space is discretized within allowable accelerations, and the kinematics ensure velocity constraints during state transitions. The advantage of this method lies in its independence from scene-specific tuning, and exhibiting robustness in various complex scenarios. Comparative analysis demonstrates a 100% success rate, along with superior computational efficiency when contrasted with the baseline approach, while also exhibiting better comfort performance. It offers a valuable alternative for velocity planning in robotics and autonomous vehicles, showcasing deep reinforcement learning's potential in practical robotics applications.
 
